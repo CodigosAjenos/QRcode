@@ -1,0 +1,18 @@
+{
+    "name": "jysperu/qrcode",
+    "description": "QRcode",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "JYS Perú",
+            "email": "jrojash@jys.pe",
+            "homepage": "https://www.jys.pe"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    }
+}
